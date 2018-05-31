@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+}
+
+.container {
+    height: 100px;
+    width: 400px;
+    margin: 100px auto;
+}
+
+.label {
+    font: 40px/100px Helvetica, sans-serif;
+    text-align: center;
+}
